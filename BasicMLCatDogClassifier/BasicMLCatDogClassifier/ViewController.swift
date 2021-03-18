@@ -17,6 +17,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        print("this is my test from person 1.")
     }
 
     @IBAction func checkAnimalAction(_ sender: Any) {
