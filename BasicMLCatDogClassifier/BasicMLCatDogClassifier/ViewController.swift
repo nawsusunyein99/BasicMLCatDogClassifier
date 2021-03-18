@@ -17,6 +17,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        print("ptesres")
     }
 
     @IBAction func checkAnimalAction(_ sender: Any) {
